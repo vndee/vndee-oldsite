@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/2018/07/01/welcome.html</loc>
+<lastmod>2018-07-01T00:00:00+07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/deeplearning/2018/07/27/cnn-from-scratch.html</loc>
+<lastmod>2018-07-27T02:57:18+07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/news/2018/09/21/no-dark-corner-in-china.html</loc>
+<lastmod>2018-09-21T02:57:18+07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/deep-learning/2018/09/21/cai-dat-pytorch-tren-ubuntu-1804.html</loc>
+<lastmod>2018-09-21T02:57:18+07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/database/2018/09/24/cai-dat-ms-sql-ubuntu-1804-lts.html</loc>
+<lastmod>2018-09-24T02:57:18+07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/about.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/archive.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+</urlset>
