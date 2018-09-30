@@ -1,6 +1,7 @@
 ---
 title: 'Bài toán dừng của Turing, tính khả quyết và định lí không toàn vẹn của Godel'
 tags: computing-theory
+author: Duy V. Huynh
 published: true
 ---
 
