@@ -12,7 +12,7 @@ Alan Turing đã đặt dấu hỏi đầu tiên của mình vào mô hình siê
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg" alt="Alan Turing - Wikipedia" height="500" width="500">
 </p>
 
-Alan Turing là một nhà khoa học lỗi lạc của thế kỉ 20. Tên của ông thường gắn với giai thoại về cổ máy Enigma<sup>[1]</sup>, thứ đã đóng góp quan trọng vào thắng lợi của quân Anh trước phát xít Đức vào thế chiến thứ 2. Chưa nói đến mặt chính trị lịch sử, những nghiên cứu khoa học rất quan trọng của ông đã đặt nền tảng cho khoa học máy tính hiện đại. Và một trong những đóng góp đó chính là bài toán dừng (the halting problem).
+Alan Turing là một nhà khoa học lỗi lạc của thế kỉ 20. Tên của ông thường gắn với giai thoại về việc giải mã cổ máy Enigma<sup>[1]</sup>, đóng góp quan trọng vào thắng lợi của quân Anh trước phát xít Đức vào thế chiến thứ 2. Chưa nói đến mặt chính trị lịch sử, những nghiên cứu khoa học rất quan trọng của ông đã đặt nền tảng cho khoa học máy tính hiện đại. Và một trong những đóng góp đó chính là bài toán dừng (the halting problem).
 Bài toán dừng của Alan Turing được phát biểu như sau:  
 > Cho một cặp bất kì gồm chương trình $H$ và input $x$. Liệu chương trình $H$ có dừng lại hay chạy mãi mãi với dữ liệu $x$? Điều này tương đương với việc có tồn tại một giải thuật $P$ sao cho $P(H, x) = true$ nếu chương trình $H$ với đầu vào là $x$ dừng sau một số hữu hạn bước và ngược lại hay không.  
 
