@@ -8,16 +8,23 @@ published: true
 
 Thành phố đêm, lấp loáng ánh đèn
 
-Vòng tay êm trong từng ngõ nhỏ\\
-Em lang thang… đoạ đầy nỗi nhớ\\
-Em bây giờ…về phía không anh!\\
-\\
-Hồ Tây đêm đẹp đến nao lòng\\
-Từng đôi từng đôi thì thầm rạo rực\\
-Anh ngủ chưa, hay còn thao thức?\\
-Có chút gì náo nức giữa màn đêm…\\
+Vòng tay êm trong từng ngõ nhỏ
 
-Càng xa anh càng nhớ nhiều thêm\\
+Em lang thang… đoạ đầy nỗi nhớ
+
+Em bây giờ…về phía không anh!
+
+
+Hồ Tây đêm đẹp đến nao lòng
+
+Từng đôi từng đôi thì thầm rạo rực
+
+Anh ngủ chưa, hay còn thao thức?
+
+Có chút gì náo nức giữa màn đêm…
+
+
+Càng xa anh càng nhớ nhiều thêm
 Em loanh quanh vòng về Thuỷ Tạ\\
 Cơn mưa chiều còn vương ghế đá\\
 Chỗ mình ngồi chụm sát một đôi\\
